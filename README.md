@@ -1,7 +1,7 @@
 # Fractol
 Fractal renderer project
 
-Compatible with Mac devices
+Compatible with MacOS devices
 
 
 Compile and run:
